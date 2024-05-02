@@ -5,6 +5,8 @@
 # 2. clone from git 
         git clone https://github.com/sumitkumar74604/flask.git
         sudo apt-get install python3 
+        sudo apt install python3-pip
+
 
 # create virtual virtual env  ( if you want run on local Machine ( Ubuntu/window))
         python -m venv flaskAppSite
