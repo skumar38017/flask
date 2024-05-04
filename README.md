@@ -39,4 +39,4 @@
         sudo chmod +x path/to/chromedriver.exe
 
 # . Go to Postman and apply GET method 
-        http//:127.0.0.1:5000
+        http//:127.0.0.1:5000/memberdetails
